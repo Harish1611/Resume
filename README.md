@@ -7,5 +7,5 @@
 
 <p>Download Resume<p>
 <a href="https://github.com/Harish1611/Resume/blob/main/Harish_Naidu_Bonam_Resume.pdf" download>
-  
+  Click Here
 </a>

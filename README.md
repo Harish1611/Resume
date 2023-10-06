@@ -5,7 +5,7 @@
 * My Resume is made with the help of Latex tool - Overleaf
 * Reference : <a href="https://www.overleaf.com/"> Overleaf <a>
 
-<h3>Download Resume</h3>
-<a href="https://github.com/Harish1611/Resume/blob/main/Harish_Naidu_Bonam_Resume.pdf" download>
+<span><h3>Download Resume</h3></span>
+<span><a href="https://github.com/Harish1611/Resume/blob/main/Harish_Naidu_Bonam_Resume.pdf" download>
   Click Here
-</a>
+</a></span>
